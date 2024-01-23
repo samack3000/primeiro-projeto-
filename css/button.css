@@ -1,0 +1,21 @@
+.botao{
+
+    width: 425px;
+    height: 55;
+    background-color: black; 
+    font-family: inherit;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    margin-bottom: 20px;
+    font-family: initial;
+    
+    
+}
+h1{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+
+}
